@@ -10,6 +10,12 @@ _Writing / linking etc. in Obsidian > export as HTML pushes to Git > Git Actions
 
 ## Syllabus Structure Overview
 
+TBA
+
+
+
+<!-- 
+
 - Python app logic
   - Hyperskill course: ###
   - Hyperskill course: ###
@@ -25,7 +31,6 @@ _Writing / linking etc. in Obsidian > export as HTML pushes to Git > Git Actions
 - Groundwork already in progress within RITC Jira
 
 - Webstack (HTML5/CSS3/JS)
-  -   
 
 - **WebStack Project**
   - githubpages site
@@ -37,6 +42,9 @@ _Writing / linking etc. in Obsidian > export as HTML pushes to Git > Git Actions
 - Jira??? 50/50
 - AI - local (in progress), private hosted (AWS etc.), preparation of training material, training process, storage and redeployment of aligned AI.
 - Dirty-hands projects, contribute to FOSS projects
+
+--> 
+
 
 ---
 
