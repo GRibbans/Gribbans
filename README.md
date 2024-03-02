@@ -1,51 +1,37 @@
-# Welcome all 👋
+# Aloha,
 
-## My Learning Journey
+This Github SVC's trials, experiments, and practices.
 
-For a deeper-dive into each area, head over to my online notes [myObsidian@Vercel](https://myobsidian.vercel.app/).
+## My C.P.D.
 
-The overall flow is: 
+As I progress, [myObsidian@Vercel](https://myobsidian.vercel.app/) will track subject areas.
 
-_Writing / linking etc. in Obsidian > export as HTML pushes to Git > Git Actions build and push to Vercel > Vercel deployment build into live._
+## The route
 
-## Syllabus Structure Overview
-
-TBA
-
-
+- [HTML5, CSS3 @ Scrimba](https://scrimba.com/learn/htmlandcss) to update
+- [Javascript @ Scrimba](https://scrimba.com/learn/learnjavascript) to update.
+- [CS for Python Programming @ HarvardX](https://www.edx.org/certificates/professional-certificate/harvardx-computer-science-for-python-programming) into new ground.
 
 <!-- 
-
 - Python app logic
   - Hyperskill course: ###
   - Hyperskill course: ###
   - Hyperskill course: ###
-
 - Python UI
   - Eel or
   - Delphi-FMX-Python or
   - Tkinter (modern or bootstrap versions)
-
 - **Python Project**
-- Three product ideas being researched, requirements written etc.
-- Groundwork already in progress within RITC Jira
-
+  - Three product ideas being researched, requirements written etc.
+  - Groundwork already in progress within RITC Jira
 - Webstack (HTML5/CSS3/JS)
-
-- **WebStack Project**
-  - githubpages site
-  - product site / sites
-  - A SAAS tool functional slice back to front.
-
+  - **WebStack Project**
+    - githubpages site
+    - product site / sites
+    - A SAAS tool functional slice back to front.
 - Cloud Infra.
 - Git, Git as remote/public hosting, Git as local/private hosting
 - Jira??? 50/50
 - AI - local (in progress), private hosted (AWS etc.), preparation of training material, training process, storage and redeployment of aligned AI.
 - Dirty-hands projects, contribute to FOSS projects
-
 --> 
-
-
----
-
-
