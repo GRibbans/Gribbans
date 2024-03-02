@@ -48,10 +48,4 @@ TBA
 
 ---
 
-### Mini Git Task List
 
-- [x] Create profile page README, write some initial content to help understand Git Markdown nuances.
-- [ ] Understand new Git Issues and Projects offerings. Options, can/cannot, use-case etc.
-- [ ] Decide on approach to an Anki learning system for my studies, SVC via a public/private repository.
-- [ ] Look at connecting Git with the RITC Jira system. What would be the high-level flow - delineation of responsibilities (#1 goal - minimise rework. #2 goal - all designed admin work adds value).
-- [ ] Identify candidate FOSS projects/apps to assist on.
