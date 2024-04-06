@@ -11,7 +11,7 @@ This Github is for my experiments, practices, and learning.
 1. MODERN SOFTWARE ENGINEERING, by D. Farley
 2. STRUCTURED ANALYTIC TECHNIQUES - For Intelligence Analysis, by R.H. Pherson and R.J. Heur
 3. THE CRUX - How Leaders Become Strategists, by R. Rumelt
-4. SPECIFICATION BY EXAMPLE - How Successful Teams Delivery The Right Software, by G. Adzic
+4. SPECIFICATION BY EXAMPLE - How Successful Teams Deliver The Right Software, by G. Adzic
 5. THIS IS LEAN - Resolving The Efficiency Paradox, by N. Modig and P. Ahlstrom
 
 An honourable mention for GOOD STRATEGY BAD STRATEGY, by R. Rumelt
