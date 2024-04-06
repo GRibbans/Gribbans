@@ -1,3 +1,5 @@
+> '_Mistakes are great, the more I make the smarter I get._' R. Buckminster Fuller (1895-1983)
+
 # Welcome. Aloha. Namaste.
 
 This Github is for my experiments, practices, and learning.
