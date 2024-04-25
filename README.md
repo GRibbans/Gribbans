@@ -4,6 +4,8 @@
 
 This Github is for my experiments, practices, and learning.
 
+Some code-snippets will be at [Codepen/io](https://codepen.io/GRibbans), rather than Gist.
+
 ## My Favourite...
 
 ### Five Books for Business, Information, and Technology
