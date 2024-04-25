@@ -24,11 +24,15 @@ As I progress, [myObsidian@Vercel](https://myobsidian.vercel.app/) will track su
 
 ### The route
 
+Courses at Hyperskill, Scrimba, Freecodecamp, Codeacademy, and HarvardX.
+
+
+<!-- 
+
 - [HTML5, CSS3 @ Scrimba](https://scrimba.com/learn/htmlandcss) to update
 - [Javascript @ Scrimba](https://scrimba.com/learn/learnjavascript) to update.
 - [CS for Python Programming @ HarvardX](https://www.edx.org/certificates/professional-certificate/harvardx-computer-science-for-python-programming) into new ground.
 
-<!-- 
 - Python app logic
   - Hyperskill course: ###
   - Hyperskill course: ###
