@@ -24,7 +24,7 @@ As I progress, [myObsidian@Vercel](https://myobsidian.vercel.app/) will track su
 
 ### The route
 
-Courses at Hyperskill, Scrimba, Freecodecamp, Codeacademy, and HarvardX.
+Courses at Hyperskill, Freecodecamp, Killercoda, Scrimba, Codeacademy, and HarvardX.
 
 
 <!-- 
