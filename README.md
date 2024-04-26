@@ -1,10 +1,10 @@
-> '_Mistakes are great, the more I make the smarter I get._' R. Buckminster Fuller (1895-1983)
-
 # Welcome. Aloha. Namaste.
+
+> '_Mistakes are great, the more I make the smarter I get._' R. Buckminster Fuller (1895-1983)
 
 This Github is for my experiments, practices, and learning.
 
-Some code-snippets will be at [Codepen.io](https://codepen.io/GRibbans), rather than Gist.
+Some code-practices will be at [Codepen.io](https://codepen.io/GRibbans), rather than Git Gist which will likely be for saving snippets from project work.
 
 ## My Favourite...
 
