@@ -13,6 +13,8 @@ This Github is for my experiments, practices, and learning.
 
 ### Five Books for Business, Information, and Technology
 
+For more, see the [Book List wiki](https://github.com/GRibbans/Gribbans/wiki/Book-List)
+
 1. MODERN SOFTWARE ENGINEERING, by D. Farley
 2. STRUCTURED ANALYTIC TECHNIQUES - For Intelligence Analysis, by R.H. Pherson and R.J. Heur
 3. THE CRUX - How Leaders Become Strategists, by R. Rumelt
