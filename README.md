@@ -6,7 +6,8 @@
 
 This Github is for my experiments, practices, and learning.
 
-Some code-practices will be at [Codepen.io](https://codepen.io/GRibbans), rather than Git Gist which will likely be for saving snippets from project work.
+- [Codepen.io](https://codepen.io/GRibbans) - Web code snippets and experiments 
+- [Git Gist](https://gist.github.com/GRibbans) - All other language code snippets.
 
 ## My Favourite...
 
@@ -17,8 +18,6 @@ Some code-practices will be at [Codepen.io](https://codepen.io/GRibbans), rather
 3. THE CRUX - How Leaders Become Strategists, by R. Rumelt
 4. SPECIFICATION BY EXAMPLE - How Successful Teams Deliver The Right Software, by G. Adzic
 5. THIS IS LEAN - Resolving The Efficiency Paradox, by N. Modig and P. Ahlstrom
-
-An honourable mention for GOOD STRATEGY BAD STRATEGY, by R. Rumelt
 
 ## My C.P.D.
 
