@@ -2,6 +2,8 @@
 
 > '_Mistakes are great, the more I make the smarter I get._' R. Buckminster Fuller (1895-1983)
 
+> '_Innovation is the ability to see change as an opportunity, not as a threat._'
+
 This Github is for my experiments, practices, and learning.
 
 Some code-practices will be at [Codepen.io](https://codepen.io/GRibbans), rather than Git Gist which will likely be for saving snippets from project work.
