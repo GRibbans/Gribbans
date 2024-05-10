@@ -13,13 +13,13 @@ This Github is for my experiments, practices, and learning.
 
 ### Five Books for Business, Information, and Technology
 
-For more, see the [Book List wiki](https://github.com/GRibbans/Gribbans/wiki/Book-List)
-
 1. MODERN SOFTWARE ENGINEERING, by D. Farley
 2. STRUCTURED ANALYTIC TECHNIQUES - For Intelligence Analysis, by R.H. Pherson and R.J. Heur
 3. THE CRUX - How Leaders Become Strategists, by R. Rumelt
 4. SPECIFICATION BY EXAMPLE - How Successful Teams Deliver The Right Software, by G. Adzic
 5. THIS IS LEAN - Resolving The Efficiency Paradox, by N. Modig and P. Ahlstrom
+
+For more, see the [Book List wiki](https://github.com/GRibbans/Gribbans/wiki/Book-List)
 
 ## My C.P.D.
 
@@ -28,7 +28,6 @@ As I progress, [myObsidian@Vercel](https://myobsidian.vercel.app/) will track su
 ### The route
 
 Courses at Hyperskill, Freecodecamp, Killercoda, Scrimba, Codeacademy, and HarvardX.
-
 
 <!-- 
 
