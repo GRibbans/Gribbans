@@ -6,8 +6,9 @@
 
 This Github is for my experiments, practices, and learning.
 
-- [Codepen.io](https://codepen.io/GRibbans) - Web code snippets and experiments 
-- [Git Gist](https://gist.github.com/GRibbans) - All other language code snippets.
+- [Codepen.io](https://codepen.io/GRibbans) (External) - Web code snippets and experiments.
+- [Git Gist](https://gist.github.com/GRibbans) (External) - All other language code snippets.
+- [GitHub Profile Wiki](https://github.com/GRibbans/Gribbans/wiki) (Internal)
 
 ## My Favourite...
 
