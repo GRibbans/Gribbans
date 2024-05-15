@@ -2,8 +2,6 @@
 
 > '_Mistakes are great, the more I make the smarter I get._' R. Buckminster Fuller (1895-1983)
 
-> '_Innovation is the ability to see change as an opportunity, not as a threat._'
-
 This Github is for my experiments, practices, and learning.
 
 - [Codepen.io](https://codepen.io/GRibbans) 🔗 - Web code snippets and experiments.
