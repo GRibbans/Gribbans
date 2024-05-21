@@ -1,4 +1,4 @@
-![Custom Header](custom-header.jpg)
+![Custom Header](customheader-rdi-Flt-jg95.svg)
 
 # Welcome. Aloha. Namaste.
 ---
