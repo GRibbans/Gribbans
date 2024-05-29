@@ -5,8 +5,6 @@
 
 > '_Start with Universe_' R. Buckminster Fuller (1895-1983)
 
-> '_Mistakes are great, the more I make the smarter I get._' R. Buckminster Fuller (1895-1983)
-
 This Github is for my experiments, practices, and learning.
 
 - [Codepen.io](https://codepen.io/GRibbans) 🔗 - visualised web-code snippets and experiments.
