@@ -11,7 +11,7 @@ This Github is for my experiments, practices, and learning.
 - [Git Gist](https://gist.github.com/GRibbans) - All other language code snippets.
 - [GitHub Profile Wiki](https://github.com/GRibbans/Gribbans/wiki)
 
-## My Favourite...
+## Some Lists..
 
 ### Five Books for Business, Information, and Technology
 
@@ -23,6 +23,15 @@ This Github is for my experiments, practices, and learning.
 
 For more, see the [Book List wiki](https://github.com/GRibbans/Gribbans/wiki/Book-List)
 
+### New / Interesting Technology 
+
+1. OBSIDIAN - markdown notes
+2. OLLAMA - (self host LLMs) and MSTY (desktop AI interaction)
+3. UPSCAYL - free OSS photo upscaling
+4. REPLIT - cloud dev environments
+5. LINEAR - task management, like a desktop version of GitHub Projects
+0. CSS - rediscovered recently, impressed with all the changes
+   
 ## My C.P.D.
 
 As I progress, [myObsidian@Vercel](https://myobsidian.vercel.app/) will track subject areas.
