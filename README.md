@@ -11,20 +11,21 @@ This Github is for my experiments, practices, and learning.
 - [Git Gist](https://gist.github.com/GRibbans) - All other language code snippets.
 - [GitHub Profile Wiki](https://github.com/GRibbans/Gribbans/wiki)
 
-[[/svg-logos/affinityphoto.svg|fancy button for my tech stack]]
-[[/svg-logos/figma.svg|fancy button for my tech stack]]
-[[/svg-logos/css3.svg|fancy button for my tech stack]]
-[[/svg-logos/html5.svg|fancy button for my tech stack]]
-[[/svg-logos/docker.svg|fancy button for my tech stack]]
-[[/svg-logos/gunicorn.svg|fancy button for my tech stack]]
-[[/svg-logos/kubernetes.svg|fancy button for my tech stack]]
-[[/svg-logos/javascript.svg|fancy button for my tech stack]]
-[[/svg-logos/postgres.svg|fancy button for my tech stack]]
-[[/svg-logos/svelte.svg|fancy button for my tech stack]]
-[[/svg-logos/python.svg|fancy button for my tech stack]]
-[[/svg-logos/tauri.svg|fancy button for my tech stack]]
-[[/svg-logos/powershell.svg|fancy button for my tech stack]]
+![affinityphoto](https://raw.githubusercontent.com/GRibbans/Gribbans/main/svg-logos/affinityphoto.svg)
+![python.svg](https://raw.githubusercontent.com/GRibbans/Gribbans/main/svg-logos/python.svg)
+![html5.svg](https://raw.githubusercontent.com/GRibbans/Gribbans/main/svg-logos/html5.svg)
+![docker](https://raw.githubusercontent.com/GRibbans/Gribbans/main/svg-logos/docker.svg)
 
+![css3.svg](https://raw.githubusercontent.com/GRibbans/Gribbans/main/svg-logos/css3.svg)
+![javascript.svg](https://raw.githubusercontent.com/GRibbans/Gribbans/main/svg-logos/javascript.svg)
+![postgres.svg](https://raw.githubusercontent.com/GRibbans/Gribbans/main/svg-logos/postgres.svg)
+![kubernetes.svg](https://raw.githubusercontent.com/GRibbans/Gribbans/main/svg-logos/kubernetes.svg)
+
+![gunicorn.svg](https://raw.githubusercontent.com/GRibbans/Gribbans/main/svg-logos/gunicorn.svg)
+![svelte.svg](https://raw.githubusercontent.com/GRibbans/Gribbans/main/svg-logos/svelte.svg)
+![figma.svg](https://raw.githubusercontent.com/GRibbans/Gribbans/main/svg-logos/figma.svg)
+![tauri.svg](https://raw.githubusercontent.com/GRibbans/Gribbans/main/svg-logos/tauri.svg)
+![powershell.svg](https://raw.githubusercontent.com/GRibbans/Gribbans/main/svg-logos/powershell.svg)
 
 ## Some Lists..
 
