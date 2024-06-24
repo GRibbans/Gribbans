@@ -11,6 +11,21 @@ This Github is for my experiments, practices, and learning.
 - [Git Gist](https://gist.github.com/GRibbans) - All other language code snippets.
 - [GitHub Profile Wiki](https://github.com/GRibbans/Gribbans/wiki)
 
+[[/svg-logos/affinityphoto.svg|fancy button for my tech stack]]
+[[/svg-logos/figma.svg|fancy button for my tech stack]]
+[[/svg-logos/css3.svg|fancy button for my tech stack]]
+[[/svg-logos/html5.svg|fancy button for my tech stack]]
+[[/svg-logos/docker.svg|fancy button for my tech stack]]
+[[/svg-logos/gunicorn.svg|fancy button for my tech stack]]
+[[/svg-logos/kubernetes.svg|fancy button for my tech stack]]
+[[/svg-logos/javascript.svg|fancy button for my tech stack]]
+[[/svg-logos/postgres.svg|fancy button for my tech stack]]
+[[/svg-logos/svelte.svg|fancy button for my tech stack]]
+[[/svg-logos/python.svg|fancy button for my tech stack]]
+[[/svg-logos/tauri.svg|fancy button for my tech stack]]
+[[/svg-logos/powershell.svg|fancy button for my tech stack]]
+
+
 ## Some Lists..
 
 ### Five Books for Business, Information, and Technology
