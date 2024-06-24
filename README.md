@@ -1,8 +1,8 @@
 ![Custom Header](customheader-rdi-Flt-jg95.svg)
 
 # Welcome. Aloha. Namaste.
----
 
+> [!TIP]
 > '_Start with Universe_' R. Buckminster Fuller (1895-1983)
 
 This Github is for my experiments, practices, and learning.
@@ -10,22 +10,6 @@ This Github is for my experiments, practices, and learning.
 - [Codepen.io](https://codepen.io/GRibbans) 🔗 - visualised web-code snippets and experiments.
 - [Git Gist](https://gist.github.com/GRibbans) - All other language code snippets.
 - [GitHub Profile Wiki](https://github.com/GRibbans/Gribbans/wiki)
-
-![affinityphoto](https://raw.githubusercontent.com/GRibbans/Gribbans/main/svg-logos/affinityphoto.svg)
-![python.svg](https://raw.githubusercontent.com/GRibbans/Gribbans/main/svg-logos/python.svg)
-![html5.svg](https://raw.githubusercontent.com/GRibbans/Gribbans/main/svg-logos/html5.svg)
-![docker](https://raw.githubusercontent.com/GRibbans/Gribbans/main/svg-logos/docker.svg)
-
-![css3.svg](https://raw.githubusercontent.com/GRibbans/Gribbans/main/svg-logos/css3.svg)
-![javascript.svg](https://raw.githubusercontent.com/GRibbans/Gribbans/main/svg-logos/javascript.svg)
-![postgres.svg](https://raw.githubusercontent.com/GRibbans/Gribbans/main/svg-logos/postgres.svg)
-![kubernetes.svg](https://raw.githubusercontent.com/GRibbans/Gribbans/main/svg-logos/kubernetes.svg)
-
-![gunicorn.svg](https://raw.githubusercontent.com/GRibbans/Gribbans/main/svg-logos/gunicorn.svg)
-![svelte.svg](https://raw.githubusercontent.com/GRibbans/Gribbans/main/svg-logos/svelte.svg)
-![figma.svg](https://raw.githubusercontent.com/GRibbans/Gribbans/main/svg-logos/figma.svg)
-![tauri.svg](https://raw.githubusercontent.com/GRibbans/Gribbans/main/svg-logos/tauri.svg)
-![powershell.svg](https://raw.githubusercontent.com/GRibbans/Gribbans/main/svg-logos/powershell.svg)
 
 ## Some Lists..
 
@@ -47,7 +31,25 @@ For more, see the [Book List wiki](https://github.com/GRibbans/Gribbans/wiki/Boo
 4. REPLIT - cloud dev environments
 5. LINEAR - task management, like a desktop version of GitHub Projects
 0. CSS - rediscovered recently, impressed with all the changes
-   
+  
+### Tech Tools 
+
+![affinityphoto](https://raw.githubusercontent.com/GRibbans/Gribbans/main/svg-logos/affinityphoto.svg)
+![python.svg](https://raw.githubusercontent.com/GRibbans/Gribbans/main/svg-logos/python.svg)
+![html5.svg](https://raw.githubusercontent.com/GRibbans/Gribbans/main/svg-logos/html5.svg)
+![powershell.svg](https://raw.githubusercontent.com/GRibbans/Gribbans/main/svg-logos/powershell.svg)
+
+![figma.svg](https://raw.githubusercontent.com/GRibbans/Gribbans/main/svg-logos/figma.svg)
+![javascript.svg](https://raw.githubusercontent.com/GRibbans/Gribbans/main/svg-logos/javascript.svg)
+![postgres.svg](https://raw.githubusercontent.com/GRibbans/Gribbans/main/svg-logos/postgres.svg)
+![kubernetes.svg](https://raw.githubusercontent.com/GRibbans/Gribbans/main/svg-logos/kubernetes.svg)
+
+![gunicorn.svg](https://raw.githubusercontent.com/GRibbans/Gribbans/main/svg-logos/gunicorn.svg)
+![svelte.svg](https://raw.githubusercontent.com/GRibbans/Gribbans/main/svg-logos/svelte.svg)
+![css3.svg](https://raw.githubusercontent.com/GRibbans/Gribbans/main/svg-logos/css3.svg)
+![tauri.svg](https://raw.githubusercontent.com/GRibbans/Gribbans/main/svg-logos/tauri.svg)
+![docker](https://raw.githubusercontent.com/GRibbans/Gribbans/main/svg-logos/docker.svg)
+ 
 ## My C.P.D.
 
 As I progress, [myObsidian@Vercel](https://myobsidian.vercel.app/) will track subject areas.
