@@ -10,27 +10,7 @@ This Github is for my experiments, practices, and learning.
 - [Codepen.io](https://codepen.io/GRibbans) 🔗 - visualised web-code snippets and experiments.
 - [Git Gist](https://gist.github.com/GRibbans) - All other language code snippets.
 - [GitHub Profile Wiki](https://github.com/GRibbans/Gribbans/wiki)
-
-## Some Lists..
-
-### Five Books for Business, Information, and Technology
-
-1. MODERN SOFTWARE ENGINEERING, by D. Farley
-2. STRUCTURED ANALYTIC TECHNIQUES - For Intelligence Analysis, by R.H. Pherson and R.J. Heur
-3. THE CRUX - How Leaders Become Strategists, by R. Rumelt
-4. SPECIFICATION BY EXAMPLE - How Successful Teams Deliver The Right Software, by G. Adzic
-5. THIS IS LEAN - Resolving The Efficiency Paradox, by N. Modig and P. Ahlstrom
-
-For more, see the [Book List wiki](https://github.com/GRibbans/Gribbans/wiki/Book-List)
-
-### New / Interesting Technology 
-
-1. OBSIDIAN - markdown notes
-2. OLLAMA - (self host LLMs) and MSTY (desktop AI interaction)
-3. UPSCAYL - free OSS photo upscaling
-4. REPLIT - cloud dev environments
-5. LINEAR - task management, like a desktop version of GitHub Projects
-0. CSS - rediscovered recently, impressed with all the changes
+-- [Book List wiki](https://github.com/GRibbans/Gribbans/wiki/Book-List)
   
 ### Tech Tools 
 
@@ -49,16 +29,14 @@ For more, see the [Book List wiki](https://github.com/GRibbans/Gribbans/wiki/Boo
 ![css3.svg](https://raw.githubusercontent.com/GRibbans/Gribbans/main/svg-logos/css3.svg)
 ![tauri.svg](https://raw.githubusercontent.com/GRibbans/Gribbans/main/svg-logos/tauri.svg)
 ![docker](https://raw.githubusercontent.com/GRibbans/Gribbans/main/svg-logos/docker.svg)
- 
-## My C.P.D.
 
-As I progress, [myObsidian@Vercel](https://myobsidian.vercel.app/) will track subject areas.
-
-### The route
-
-Courses at Hyperskill, Freecodecamp, Killercoda, Scrimba, Codeacademy, and HarvardX.
 
 <!-- 
+
+## My C.P.D.
+As I progress, [myObsidian@Vercel](https://myobsidian.vercel.app/) will track subject areas.
+### The route
+Courses at Hyperskill, Freecodecamp, Killercoda, Scrimba, Codeacademy, and HarvardX.
 
 - [HTML5, CSS3 @ Scrimba](https://scrimba.com/learn/htmlandcss) to update
 - [Javascript @ Scrimba](https://scrimba.com/learn/learnjavascript) to update.
