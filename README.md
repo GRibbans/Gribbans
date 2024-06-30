@@ -12,8 +12,6 @@ This Github is for my experiments, practices, and learning.
 - [GitHub Profile Wiki](https://github.com/GRibbans/Gribbans/wiki)
 -- [Book List wiki](https://github.com/GRibbans/Gribbans/wiki/Book-List)
   
-### Tech Tools 
-
 ![affinityphoto](https://raw.githubusercontent.com/GRibbans/Gribbans/main/svg-logos/affinityphoto.svg)
 ![python.svg](https://raw.githubusercontent.com/GRibbans/Gribbans/main/svg-logos/python.svg)
 ![html5.svg](https://raw.githubusercontent.com/GRibbans/Gribbans/main/svg-logos/html5.svg)
