@@ -1,5 +1,7 @@
 ![Custom Header](customheader-rdi-Flt-jg95.svg)
 
+***
+
 # Welcome. Aloha. Namaste.
 
 > [!TIP]
@@ -11,7 +13,9 @@ This Github is for my experiments, practices, and learning.
 - [Git Gist](https://gist.github.com/GRibbans) - All other language code snippets.
 - [GitHub Profile Wiki](https://github.com/GRibbans/Gribbans/wiki)
 -- [Book List wiki](https://github.com/GRibbans/Gribbans/wiki/Book-List)
-  
+
+***
+
 ![affinityphoto](https://raw.githubusercontent.com/GRibbans/Gribbans/main/svg-logos/affinityphoto.svg)
 ![python.svg](https://raw.githubusercontent.com/GRibbans/Gribbans/main/svg-logos/python.svg)
 ![html5.svg](https://raw.githubusercontent.com/GRibbans/Gribbans/main/svg-logos/html5.svg)
