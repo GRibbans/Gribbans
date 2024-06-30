@@ -1,11 +1,14 @@
 ![Custom Header](customheader-rdi-Flt-jg95.svg)
 
-***
+<div align="center">
+
+  > '_Start with Universe_'
+
+ `Buckminster Fuller (1895-1983)`
+ 
+</div>
 
 # Welcome. Aloha. Namaste.
-
-> [!TIP]
-> '_Start with Universe_' R. Buckminster Fuller (1895-1983)
 
 This Github is for my experiments, practices, and learning.
 
