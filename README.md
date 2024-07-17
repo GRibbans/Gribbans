@@ -6,7 +6,7 @@
 
  `Buckminster Fuller (1895-1983)`
  
-</div>
+
 
 # Welcome. Aloha. Namaste.
 
@@ -34,6 +34,7 @@ This Github is for my experiments, practices, and learning.
 ![tauri.svg](https://raw.githubusercontent.com/GRibbans/Gribbans/main/svg-logos/tauri.svg)
 ![docker](https://raw.githubusercontent.com/GRibbans/Gribbans/main/svg-logos/docker.svg)
 
+</div>
 
 <!-- 
 
