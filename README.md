@@ -12,9 +12,7 @@
 
 This Github is for my experiments, practices, and learning.
 
-- [Codepen.io](https://codepen.io/GRibbans) 🔗 - visualised web-code snippets and experiments.
-- [Git Gist](https://gist.github.com/GRibbans) - All other language code snippets.
-- [GitHub Wiki](https://github.com/GRibbans/Gribbans/wiki) / [Book List wiki](https://github.com/GRibbans/Gribbans/wiki/Book-List)
+[GitHub Wiki](https://github.com/GRibbans/Gribbans/wiki) | [Git Gist](https://gist.github.com/GRibbans) | [Codepen.io](https://codepen.io/GRibbans) 🔗
 
 ***
 
