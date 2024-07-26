@@ -12,7 +12,7 @@
 
 This Github is for my experiments, practices, and learning.
 
-[GitHub Wiki](https://github.com/GRibbans/Gribbans/wiki) | [Git Gist](https://gist.github.com/GRibbans) | [Codepen.io](https://codepen.io/GRibbans) 🔗
+[GitHub Wiki](https://github.com/GRibbans/Gribbans/wiki) | [GitHub Gist](https://gist.github.com/GRibbans) | [Codepen.io](https://codepen.io/GRibbans) 🔗
 
 ***
 
